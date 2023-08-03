@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">A passionate Artificial Intelligence and Robotics</h3>
 <p>
-  👋 Hello, fellow data enthusiasts! I'm [Your Name], a passionate Data Scientist and Machine Learning Engineer with a thirst for knowledge and a love for solving complex problems with data.
+  👋 Hello, fellow data enthusiasts! I'm Pratik Patil, a passionate Data Scientist and Machine Learning Engineer with a thirst for knowledge and a love for solving complex problems with data.
 
 📈 As a data-driven professional, I specialize in extracting meaningful insights from raw data and building predictive models that make a real-world impact. My journey into the world of data started with a fascination for statistics and computer science, and it has led me to explore the vast landscape of machine learning and artificial intelligence.
 
@@ -9,9 +9,9 @@
 
 🔬 My GitHub repository is my playground for sharing open-source projects, code snippets, and data science tutorials. I believe in the power of collaboration and community-driven learning, and I'm always eager to connect with like-minded individuals.
 
-🌱 When I'm not immersed in data, you'll find me honing my skills in Python, R, SQL, and various machine learning libraries. I also enjoy exploring new datasets and contributing to data science challenges and competitions.
+🌱 When I'm not immersed in data, you'll find me honing my skills in Python, R, SQL, and various machine-learning libraries. I also enjoy exploring new datasets and contributing to data science challenges and competitions.
 
-🎓 With a background in [Your Educational Background or Relevant Experience], I continue to expand my expertise through continuous learning and staying up-to-date with industry trends.
+🎓 With a background in MSC in Artificial Intelligence and Robotics, I continue to expand my expertise through continuous learning and staying up-to-date with industry trends.
 
 🌟 Let's harness the power of data together and make a positive impact on the world. Feel free to explore my projects and reach out for collaborations or discussions. Together, we can unlock the potential of data and machine learning!
 
